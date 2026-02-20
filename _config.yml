@@ -3,7 +3,7 @@
 # Specific to Chirpy theme
 # https://github.com/cotes2020/jekyll-theme-chirpy
 
-title: Zorba의 개인 블로그
+title: Zorba is Free
 tagline: 개인 일상과 개발 및 기술 관련 기록을 남기는 블로그입니다.
 description: >-
   개인 일상과 개발 및 기술 관련 기록을 남기는 블로그입니다.
@@ -23,16 +23,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-include-cache
+  - jekyll-archives
+
 
 # Pagination Settings
 paginate: 10
-paginate_path: "/page:num"
+paginate_path: "/page:num/"
 
 # Theme settings
 theme: jekyll-theme-chirpy
 theme_mode: # light, dark
+future: true
 
-avatar: # /assets/img/avatar.png
+
+avatar: /assets/img/avatar.png
+
 social:
   name: Zorba Lim
   email: zorbalim99@gmail.com
@@ -40,7 +45,13 @@ social:
     - https://github.com/zorba-lim
 
 # Google Analytics, Comments, Adsense etc.
-# Check original _config.yml for Chirpy for details
+comments:
+  active: utterances # Chirpy uses 'active' in some versions, or 'provider'
+  utterances:
+    repo: zorba-lim/zorba-lim.github.io
+    issue_term: pathname
+    theme: github-light
+    label: comment
 
 # TOC
 toc: true
@@ -55,6 +66,24 @@ defaults:
       layout: post
       toc: true
       comments: true
+
+
+
+# Collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+# Archives
+jekyll-archives:
+  enabled: [categories, tags]
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    tag: /tags/:name/
+    category: /categories/:name/
 
 # Jekyll settings
 markdown: kramdown

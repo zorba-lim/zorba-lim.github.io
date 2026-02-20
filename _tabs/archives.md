@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: archives
 title: Archives
-order: 4
+icon: fas fa-archive
+order: 3
 ---

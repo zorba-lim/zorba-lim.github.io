@@ -9,7 +9,9 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-include-cache"
   gem "jekyll-paginate"
+  gem "jekyll-archives"
 end
+
 
 gem "tzinfo"
 gem "tzinfo-data"
