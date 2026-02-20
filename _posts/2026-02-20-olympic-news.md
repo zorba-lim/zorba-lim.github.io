@@ -1,4 +1,3 @@
-```markdown
 ---
 layout: single
 title: "2026년 2월 20일 동계올림픽 한국팀 성적 및 주요 소식"
@@ -98,4 +97,3 @@ author_profile: true
 오늘 올림픽 소식이었어요! 내일도 한국 선수들의 활약을 기대해 봐요 🇰🇷⛸️⛷️🏂  
 응원해요! 😊
 ::contentReference[oaicite:14]{index=14}
-```
