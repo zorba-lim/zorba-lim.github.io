@@ -1,0 +1,15 @@
+# Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Artifacts
+task.md
+implementation_plan.md
+walkthrough.md
+
+# Dependencies
+vendor/
+node_modules/
+Gemfile.lock
