@@ -1,0 +1,37 @@
+title: Zorba의 IT 블로그
+email: zorbalim99@gmail.com
+description: >- # 이 부분에 블로그 설명을 적습니다.
+  개발 및 IT 기술에 관한 기록을 남기는 블로그입니다.
+baseurl: "" # 주소 뒤에 경로가 붙는 경우 적습니다 (예: /project)
+url: "https://zorba-lim.github.io" # 본인의 GitHub Pages 주소
+author: Zorba Lim
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude` key here will be automatically added to
+# the internal "default list".
+#
+# GitHub Pages can't build gems with native extensions, so they should be
+# omitted of the 'exclude' list.
+#
+# The following items are excluded by default:
+#   - ListItem
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+exclude:
+  - .sass-cache
+  - .jekyll-cache
+  - .jekyll-metadata
+  - vendor
