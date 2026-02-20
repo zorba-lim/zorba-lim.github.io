@@ -46,17 +46,20 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
+# Comments
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
+    label: "comment"
+    repository: "zorba-lim/zorba-lim.github.io"
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-lsi: false
-
-# Site Branding
-logo: # /assets/images/logo.png
+# Social Sharing
+share: true
+facebook: true
+twitter: true
+linkedin: true
 
 # Navigation
 # (Need to create _data/navigation.yml for this)
