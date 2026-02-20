@@ -24,7 +24,6 @@ plugins:
   - jekyll-paginate
   - jekyll-include-cache
   - jekyll-archives
-  - jekyll-theme-chirpy
 
 
 # Pagination Settings
