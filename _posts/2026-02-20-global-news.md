@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "2026년 2월 20일 글로벌 뉴스 요약"
 date: 2026-02-20 11:00:00 +0900
 categories: [News, General]
