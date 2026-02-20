@@ -46,7 +46,7 @@ social:
 
 # Google Analytics, Comments, Adsense etc.
 comments:
-  active: utterances # Chirpy uses 'active' in some versions, or 'provider'
+  provider: utterances
   utterances:
     repo: zorba-lim/zorba-lim.github.io
     issue_term: pathname
