@@ -1,85 +1,73 @@
-# Welcome to Jekyll!
+# The Site Settings
 #
-# This config file is built for Minimal Mistakes theme.
-# For more info: https://mmistakes.github.io/minimal-mistakes/docs/configuration/
+# Specific to Chirpy theme
+# https://github.com/cotes2020/jekyll-theme-chirpy
 
-# Site settings
 title: Zorba의 개인 블로그
-email: zorbalim99@gmail.com
+tagline: 개인 일상과 개발 및 기술 관련 기록을 남기는 블로그입니다.
 description: >-
   개인 일상과 개발 및 기술 관련 기록을 남기는 블로그입니다.
 url: "https://zorba-lim.github.io"
 baseurl: ""
 repository: "zorba-lim/zorba-lim.github.io"
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+author: Zorba Lim
 
-# Author settings
-author:
-  name: "Zorba Lim"
-  avatar: # /assets/images/bio-photo.jpg
-  bio: "개인 일상 및 개발 기록 블로그"
-  location: "Seoul, Korea"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/zorba-lim"
-
-# Themes
-remote_theme: "mmistakes/minimal-mistakes"
+# Timezone and Locale
+timezone: Asia/Seoul
+lang: ko-KR
 
 # Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-remote-theme
+  - jekyll-paginate
   - jekyll-include-cache
 
-# Front Matter Defaults
+# Pagination Settings
+paginate: 10
+paginate_path: "/page:num"
+
+# Theme settings
+theme_mode: light # light, dark
+avatar: # /assets/img/avatar.png
+social:
+  name: Zorba Lim
+  email: zorbalim99@gmail.com
+  links:
+    - https://github.com/zorba-lim
+
+# Google Analytics, Comments, Adsense etc.
+# Check original _config.yml for Chirpy for details
+
+# TOC
+toc: true
+
+# Defaults
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: "single"
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      layout: post
       toc: true
-      toc_label: "목차"
-      toc_icon: "bars"
-      toc_sticky: true
-      sidebar:
-        nav: "main"
+      comments: true
 
-# Comments
-comments:
-  provider: "utterances"
-  utterances:
-    theme: "github-light"
-    issue_term: "pathname"
-    label: "comment"
-    repository: "zorba-lim/zorba-lim.github.io"
+# Jekyll settings
+markdown: kramdown
+highlighter: rouge
 
-# Social Sharing
-share: true
-
-# Navigation
-# (Using _data/navigation.yml)
-
-# Others
-locale: "ko-KR"
-charset: "utf-8"
-
+# Build settings
 exclude:
-  - .sass-cache
-  - .jekyll-cache
-  - .jekyll-metadata
   - vendor
   - Gemfile
   - Gemfile.lock
   - node_modules
+  - .jekyll-cache
+  - .jekyll-metadata
   - .github
+  - README.md
+  - LICENSE
+  - task.md
+  - implementation_plan.md
+  - walkthrough.md

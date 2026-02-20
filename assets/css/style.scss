@@ -1,0 +1,23 @@
+/* Custom CSS to move TOC to the left and hide the label */
+
+@media (min-width: 1200px) {
+  /* Hide TOC Label */
+  #toc-wrapper .panel-heading {
+    display: none !important;
+  }
+
+  /* Move TOC from right to left */
+  /* Chirpy uses a right sidebar for TOC. We will try to swap the position or absolute position it. */
+  /* This is a basic attempt to swap the layout columns if possible, or just reposition the TOC. */
+  
+  #panel-wrapper {
+    /* The panel-wrapper is usually on the right. */
+    order: -1 !important;
+    padding-right: 2rem !important;
+    padding-left: 0 !important;
+  }
+  
+  #main-wrapper {
+    order: 0 !important;
+  }
+}
