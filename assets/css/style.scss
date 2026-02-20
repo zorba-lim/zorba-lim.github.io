@@ -1,1 +1,16 @@
 /* Custom SCSS */
+
+.spoiler {
+    background-color: currentColor;
+    color: currentColor;
+    cursor: pointer;
+    transition: background-color 0.2s ease, color 0.2s ease;
+    border-radius: 3px;
+    padding: 0 4px;
+}
+
+.spoiler:hover {
+    background-color: transparent;
+    /* Maintain the original text color defined by the parent/theme */
+    color: inherit;
+}
