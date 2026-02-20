@@ -9,9 +9,9 @@ email: zorbalim99@gmail.com
 description: >-
   개인 일상과 개발 및 기술 관련 기록을 남기는 블로그입니다.
 url: "https://zorba-lim.github.io"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: ""
 repository: "zorba-lim/zorba-lim.github.io"
-teaser: # /assets/images/500x300.png
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Author settings
 author:
@@ -25,8 +25,7 @@ author:
       url: "https://github.com/zorba-lim"
 
 # Themes
-# theme: minima
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+remote_theme: "mmistakes/minimal-mistakes"
 
 # Plugins
 plugins:
@@ -49,6 +48,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "main"
 
 # Comments
 comments:
@@ -61,12 +62,9 @@ comments:
 
 # Social Sharing
 share: true
-facebook: true
-twitter: true
-linkedin: true
 
 # Navigation
-# (Need to create _data/navigation.yml for this)
+# (Using _data/navigation.yml)
 
 # Others
 locale: "ko-KR"
