@@ -1,7 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll", "~> 4.3.2"
-gem "jekyll-chirpy", "~> 6.0"
+gem "jekyll-theme-chirpy"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
@@ -10,3 +10,6 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-paginate"
 end
+
+gem "tzinfo"
+gem "tzinfo-data"

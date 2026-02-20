@@ -29,7 +29,9 @@ paginate: 10
 paginate_path: "/page:num"
 
 # Theme settings
-theme_mode: light # light, dark
+theme: jekyll-theme-chirpy
+theme_mode: # light, dark
+
 avatar: # /assets/img/avatar.png
 social:
   name: Zorba Lim
@@ -42,6 +44,7 @@ social:
 
 # TOC
 toc: true
+# toc_label: "" # Chirpy에서는 CSS로 처리하는 것이 확실함
 
 # Defaults
 defaults:
