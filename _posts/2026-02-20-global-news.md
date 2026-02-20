@@ -3,6 +3,8 @@ layout: post
 title: "2026년 2월 20일 글로벌 뉴스 요약"
 date: 2026-02-20 11:00:00 +0900
 categories: [News, General]
+comments: true
+author_profile: true
 ---
 
 오늘의 주요 글로벌 뉴스 2가지를 간략히 정리해 드립니다.
