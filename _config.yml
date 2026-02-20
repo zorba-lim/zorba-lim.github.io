@@ -48,6 +48,10 @@ defaults:
       comments: true
       share: true
       related: true
+      toc: true
+      toc_label: "목차"
+      toc_icon: "bars"
+      toc_sticky: true
       sidebar:
         nav: "main"
 
