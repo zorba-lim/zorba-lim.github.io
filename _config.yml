@@ -45,6 +45,10 @@ social:
     - https://github.com/zorba-lim
 
 # Google Analytics, Comments, Adsense etc.
+# Search Console verification
+webmaster_verifications:
+  google: "4KZYmtKZD1z3ShpJmxI3_WgD9dwbUrsEULitvWh3xB4"
+
 comments:
   provider: disqus
   disqus:
