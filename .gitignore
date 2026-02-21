@@ -13,3 +13,5 @@ walkthrough.md
 vendor/
 node_modules/
 Gemfile.lock
+
+.agents/
