@@ -46,12 +46,9 @@ social:
 
 # Google Analytics, Comments, Adsense etc.
 comments:
-  provider: utterances
-  utterances:
-    repo: zorba-lim/zorba-lim.github.io
-    issue_term: pathname
-    theme: github-light
-    label: comment
+  provider: disqus
+  disqus:
+    shortname: zorba-lim-github-io
 
 # TOC
 toc: true
