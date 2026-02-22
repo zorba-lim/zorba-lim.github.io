@@ -22,27 +22,15 @@
     if (postMeta && !document.getElementById('busuanzi_container_page_pv')) {
       var viewCounter = document.createElement('span');
       viewCounter.id = 'busuanzi_container_page_pv';
-      viewCounter.innerHTML = '조회수 <span id="busuanzi_value_page_pv">-</span>';
+      viewCounter.style.display = 'none';
+      viewCounter.innerHTML = '조회수 <span id="busuanzi_value_page_pv"></span>';
       postMeta.appendChild(document.createTextNode(' · '));
       postMeta.appendChild(viewCounter);
-
-      // 카운터 컨테이너가 만들어진 뒤 스크립트를 로드해야 값이 안정적으로 채워짐
-      if (!document.querySelector('script[data-busuanzi]')) {
-        var counterScript = document.createElement('script');
-        counterScript.async = true;
-        counterScript.src = '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
-        counterScript.setAttribute('data-busuanzi', 'true');
-        counterScript.onload = function () {
-          if (window.BUSUANZI && typeof window.BUSUANZI.fetch === 'function') {
-            window.BUSUANZI.fetch();
-          }
-        };
-        document.body.appendChild(counterScript);
-      }
     }
   });
 </script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9677120965646002" crossorigin="anonymous"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <meta name="google-adsense-account" content="ca-pub-9677120965646002">
