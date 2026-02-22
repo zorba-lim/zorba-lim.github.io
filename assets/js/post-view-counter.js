@@ -35,13 +35,13 @@
   }
 
   function mountCounter() {
-    if (document.getElementById('busuanzi_container_page_pv')) return;
+    if (document.getElementById('post_view_counter')) return;
 
     var mountPoint = findCounterMountPoint();
     if (!mountPoint) return;
 
     var counter = document.createElement('span');
-    counter.id = 'busuanzi_container_page_pv';
+    counter.id = 'post_view_counter';
     counter.className = 'post-view-counter';
     counter.innerHTML = '👁 조회수 <span id="busuanzi_value_page_pv">-</span>';
 
