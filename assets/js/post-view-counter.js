@@ -15,7 +15,11 @@
   }
 
   function isPostDetailPage() {
-    return Boolean(document.querySelector('.post-tail-wrapper'));
+    var ogType = document.querySelector('meta[property="og:type"]');
+    var isArticle = ogType && ogType.getAttribute('content') === 'article';
+    var hasArticleContent = Boolean(document.querySelector('article .content'));
+
+    return Boolean(isArticle && hasArticleContent);
   }
 
   function findCounterMountPoint() {
