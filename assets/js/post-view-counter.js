@@ -14,6 +14,10 @@
     });
   }
 
+  function isPostDetailPage() {
+    return Boolean(document.querySelector('.post-tail-wrapper'));
+  }
+
   function findCounterMountPoint() {
     var selectors = [
       'article header .post-meta',
@@ -74,6 +78,7 @@
 
   document.addEventListener('DOMContentLoaded', function () {
     initToc();
+    if (!isPostDetailPage()) return;
     mountCounter();
     loadBusuanzi();
   });
