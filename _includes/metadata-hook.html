@@ -17,42 +17,20 @@
       });
     }
 
-    // 게시물 조회수 표시
-    var postMeta = document.querySelector('article .post-meta, article header .post-meta, .post-meta.text-muted');
-    var postHeader = document.querySelector('article header, article .post-header');
-
-    if ((postMeta || postHeader) && !document.getElementById('busuanzi_container_page_pv')) {
+    // 게시물 상단 메타 영역에 조회수 표시 추가
+    var postMeta = document.querySelector('article .post-meta');
+    if (postMeta && !document.getElementById('busuanzi_container_page_pv')) {
       var viewCounter = document.createElement('span');
       viewCounter.id = 'busuanzi_container_page_pv';
-      viewCounter.className = 'post-view-counter';
-      viewCounter.innerHTML = '👁 조회수 <span id="busuanzi_value_page_pv">-</span>';
-
-      if (postMeta) {
-        postMeta.appendChild(document.createTextNode(' · '));
-        postMeta.appendChild(viewCounter);
-      } else {
-        viewCounter.style.display = 'inline-block';
-        viewCounter.style.marginTop = '0.5rem';
-        viewCounter.style.color = 'var(--text-muted-color, #6c757d)';
-        postHeader.appendChild(viewCounter);
-      }
-
-      if (!document.querySelector('script[data-busuanzi]')) {
-        var counterScript = document.createElement('script');
-        counterScript.async = true;
-        counterScript.src = '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js';
-        counterScript.setAttribute('data-busuanzi', 'true');
-        counterScript.onload = function () {
-          if (window.BUSUANZI && typeof window.BUSUANZI.fetch === 'function') {
-            window.BUSUANZI.fetch();
-          }
-        };
-        document.body.appendChild(counterScript);
-      }
+      viewCounter.style.display = 'none';
+      viewCounter.innerHTML = '조회수 <span id="busuanzi_value_page_pv"></span>';
+      postMeta.appendChild(document.createTextNode(' · '));
+      postMeta.appendChild(viewCounter);
     }
   });
 </script>
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9677120965646002" crossorigin="anonymous"></script>
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 
 <meta name="google-adsense-account" content="ca-pub-9677120965646002">
