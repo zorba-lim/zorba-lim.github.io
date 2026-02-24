@@ -3,7 +3,7 @@ layout: post
 title: "의료개혁, 숫자보다 신뢰가 먼저다 🏥 오늘 논쟁의 핵심 한 줄"
 date: 2026-02-23 11:00:00 +0900
 categories: [News, Korea, Insight]
-tags: [healthcare, policy, korea]
+tags: [healthcare, policy, korea, 시사뉴스, 뉴스해설, 국내트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "의료 인력·전달체계 개편 논의와 사회적 신뢰 과제"
 ---
 

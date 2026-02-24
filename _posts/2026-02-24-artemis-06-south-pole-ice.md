@@ -3,7 +3,7 @@ layout: post
 title: "달 남극의 숨은 보물은 다이아가 아니라 물? 💧 얼음이 바꾸는 우주 탐사"
 date: 2026-02-24 10:40:00 +0900
 categories: [News, Global, Insight]
-tags: [lunar-south-pole, water-ice, isru]
+tags: [lunar-south-pole, water-ice, isru, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, 달남극]
 description: "달 남극 물 얼음이 왜 중요한지 쉽게 설명"
 ---
 

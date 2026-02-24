@@ -3,7 +3,7 @@ layout: post
 title: "봄인데 에어컨 찾는 중 🌡️ 폭염의 조기 등장, 우리 일상은 안전할까?"
 date: 2026-02-22 17:00:00 +0900
 categories: [News, Global, Insight]
-tags: [climate, heatwave, environment]
+tags: [climate, heatwave, environment, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 폭염]
 description: "이상고온·폭염 대응과 생활 안전 가이드"
 ---
 

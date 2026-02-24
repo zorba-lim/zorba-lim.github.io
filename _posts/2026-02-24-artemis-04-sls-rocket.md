@@ -3,7 +3,7 @@ layout: post
 title: "SLS 로켓, 그냥 큰 불꽃이 아니다 🔥 달로 가는 초강력 엘리베이터"
 date: 2026-02-24 10:00:00 +0900
 categories: [News, Global, Insight]
-tags: [sls, rocket, artemis]
+tags: [sls, rocket, artemis, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, SLS로켓]
 description: "아르테미스의 발사체 SLS를 쉽게 설명"
 ---
 

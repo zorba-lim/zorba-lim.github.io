@@ -3,7 +3,7 @@ layout: post
 title: "휴전 한 줄에 원자재가 출렁 🌍 우크라 협상 뉴스 읽는 법"
 date: 2026-02-23 09:40:00 +0900
 categories: [News, Global, Insight]
-tags: [ukraine, geopolitics, commodities]
+tags: [ukraine, geopolitics, commodities, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "우크라이나 관련 협상 소식과 에너지·곡물 시장 영향"
 ---
 

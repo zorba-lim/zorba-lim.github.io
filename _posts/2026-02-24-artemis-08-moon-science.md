@@ -3,7 +3,7 @@ layout: post
 title: "달은 돌멩이만 있는 줄 알았지? 🔬 아르테미스 과학 실험이 중요한 이유"
 date: 2026-02-24 11:20:00 +0900
 categories: [News, Global, Insight]
-tags: [moon-science, artemis, experiment]
+tags: [moon-science, artemis, experiment, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, 달탐사]
 description: "아르테미스가 달에서 어떤 과학 실험을 하는지 쉽게 설명"
 ---
 

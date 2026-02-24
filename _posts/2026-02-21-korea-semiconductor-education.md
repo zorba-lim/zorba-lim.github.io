@@ -3,7 +3,7 @@ layout: post
 title: "한국 뉴스 🇰🇷 반도체 인재 키우기, 학교 교육도 달라져요"
 date: 2026-02-21 12:00:00 +0900
 categories: [News, Korea, Education, Tech]
-tags: [korea, semiconductor, education, career, teens]
+tags: [korea, semiconductor, education, career, teens, 시사뉴스, 뉴스해설, 국내트렌드, 에듀트렌드, 테크이슈, 한국뉴스, 국내이슈]
 description: "한국 산업·교육 뉴스: 반도체 인재 정책"
 ---
 

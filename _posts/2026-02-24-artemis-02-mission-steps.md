@@ -3,7 +3,7 @@ layout: post
 title: "아르테미스는 시즌제였다? 🎬 1·2·3단계로 보는 달 귀환 로드맵"
 date: 2026-02-24 09:20:00 +0900
 categories: [News, Global, Insight]
-tags: [artemis1, artemis2, artemis3, nasa]
+tags: [artemis1, artemis2, artemis3, nasa, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발]
 description: "아르테미스 1·2·3 임무를 쉽게 이해하도록 정리"
 ---
 

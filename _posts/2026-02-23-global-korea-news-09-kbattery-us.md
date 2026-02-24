@@ -3,7 +3,7 @@ layout: post
 title: "배터리 전쟁 2라운드 🔋 북미 투자, 이제는 속도보다 수익성"
 date: 2026-02-23 11:40:00 +0900
 categories: [News, Korea, Insight]
-tags: [battery, ev, north-america]
+tags: [battery, ev, north-america, 시사뉴스, 뉴스해설, 국내트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "K-배터리 북미 전략과 정책 변화 속 수익성 과제"
 ---
 

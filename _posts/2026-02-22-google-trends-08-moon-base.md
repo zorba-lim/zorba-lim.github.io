@@ -3,7 +3,7 @@ layout: post
 title: "달에 집 짓기 프로젝트 🚀 공상과학이 아니라 일정표가 됐다"
 date: 2026-02-22 19:00:00 +0900
 categories: [News, Global, Insight]
-tags: [moon, nasa, space]
+tags: [moon, nasa, space, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 달탐사]
 description: "달 기지 프로젝트와 우주 산업 변화"
 ---
 

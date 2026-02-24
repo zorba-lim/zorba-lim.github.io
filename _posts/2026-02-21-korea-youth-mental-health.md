@@ -3,7 +3,7 @@ layout: post
 title: "한국 뉴스 🇰🇷 청소년 마음건강 지원, 왜 더 중요해졌을까?"
 date: 2026-02-21 12:20:00 +0900
 categories: [News, Korea, Society, Education]
-tags: [korea, youth, mental-health, school, teens]
+tags: [korea, youth, mental-health, school, teens, 시사뉴스, 뉴스해설, 국내트렌드, 에듀트렌드, 한국뉴스, 국내이슈, 청소년]
 description: "한국 사회 뉴스: 청소년 정신건강 지원 정책"
 ---
 

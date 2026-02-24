@@ -3,7 +3,7 @@ layout: post
 title: "우주인은 한 명, 직업은 수천 개 🚀 아르테미스가 만드는 미래 진로 지도"
 date: 2026-02-24 12:00:00 +0900
 categories: [News, Global, Insight]
-tags: [stem, career, artemis]
+tags: [stem, career, artemis, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, 미래직업]
 description: "아르테미스 프로젝트가 학생들의 미래 직업에 주는 힌트"
 ---
 

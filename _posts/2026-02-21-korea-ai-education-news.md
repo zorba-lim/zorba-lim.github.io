@@ -3,7 +3,7 @@ layout: post
 title: "오늘의 한국 뉴스 🇰🇷 AI 교과서 실험 학교가 늘어난대요!"
 date: 2026-02-21 10:30:00 +0900
 categories: [News, Korea, Education]
-tags: [korea, education, ai, school, kids]
+tags: [korea, education, ai, school, kids, 시사뉴스, 뉴스해설, 국내트렌드, 에듀트렌드, 한국뉴스, 국내이슈, AI]
 description: "초등학생도 이해하는 오늘의 한국 뉴스: 학교에서 AI 학습 도구 확대"
 ---
 

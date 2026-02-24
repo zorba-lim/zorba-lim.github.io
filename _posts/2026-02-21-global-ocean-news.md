@@ -3,7 +3,7 @@ layout: post
 title: "오늘의 글로벌 뉴스 🌍 바다를 함께 지키는 나라들이 늘고 있어요!"
 date: 2026-02-21 10:00:00 +0900
 categories: [News, Global]
-tags: [global, ocean, environment, kids]
+tags: [global, ocean, environment, kids, 시사뉴스, 뉴스해설, 글로벌트렌드, 글로벌뉴스, 국제이슈, 세계경제, 해양보호, 해양환경]
 description: "초등학생도 쉽게 이해하는 오늘의 글로벌 뉴스: 바다 보호 약속"
 ---
 

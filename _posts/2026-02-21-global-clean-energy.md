@@ -3,7 +3,7 @@ layout: post
 title: "글로벌 뉴스 🌍 재생에너지 투자가 더 빨라지는 이유"
 date: 2026-02-21 11:20:00 +0900
 categories: [News, Global, Environment]
-tags: [global, climate, renewable, economy, teens]
+tags: [global, climate, renewable, economy, teens, 시사뉴스, 뉴스해설, 글로벌트렌드, 환경이슈, 글로벌뉴스, 국제이슈, 세계경제]
 description: "글로벌 에너지 뉴스: 재생에너지 확대의 배경"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "팬심 폭주 모드 🎤 K-팝 컴백 시즌, 기록은 어떻게 만들어질까?"
 date: 2026-02-22 16:00:00 +0900
 categories: [News, Global, Insight]
-tags: [kpop, comeback, music]
+tags: [kpop, comeback, music, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 케이팝]
 description: "K-팝 컴백 전략과 팬덤 문화 분석"
 ---
 

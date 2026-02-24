@@ -3,7 +3,7 @@ layout: post
 title: "글로벌 뉴스 🚀 달 탐사 경쟁, 과학과 산업을 함께 바꿔요"
 date: 2026-02-21 11:40:00 +0900
 categories: [News, Global, Science]
-tags: [global, space, moon, stem, teens]
+tags: [global, space, moon, stem, teens, 시사뉴스, 뉴스해설, 글로벌트렌드, 글로벌뉴스, 국제이슈, 세계경제, 우주탐사]
 description: "우주 뉴스: 달 탐사 확대가 가져올 변화"
 ---
 

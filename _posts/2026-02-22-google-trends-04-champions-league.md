@@ -3,7 +3,7 @@ layout: post
 title: "새벽잠 순삭 ⚽ 챔피언스리그, 전술 한 수가 시즌을 바꾼다"
 date: 2026-02-22 15:00:00 +0900
 categories: [News, Global, Insight]
-tags: [champions-league, football, sports]
+tags: [champions-league, football, sports, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 축구]
 description: "챔피언스리그 전술 포인트와 관전 재미"
 ---
 

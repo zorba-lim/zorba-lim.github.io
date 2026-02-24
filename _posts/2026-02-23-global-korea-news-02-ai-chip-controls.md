@@ -3,7 +3,7 @@ layout: post
 title: "칩이 곧 외교다 🤖 AI 반도체 규제가 바꾼 세계 지도"
 date: 2026-02-23 09:20:00 +0900
 categories: [News, Global, Insight]
-tags: [ai-chip, export-control, supply-chain]
+tags: [ai-chip, export-control, supply-chain, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "AI 반도체 수출 규제와 글로벌 공급망 재편"
 ---
 

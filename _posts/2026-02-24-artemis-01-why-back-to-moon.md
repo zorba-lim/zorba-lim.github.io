@@ -3,7 +3,7 @@ layout: post
 title: "달 재방문, 숙제 검사 아닙니다 🌕 아르테미스가 다시 달로 가는 진짜 이유"
 date: 2026-02-24 09:00:00 +0900
 categories: [News, Global, Insight]
-tags: [artemis, moon, nasa]
+tags: [artemis, moon, nasa, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, 달탐사]
 description: "쉽게 이해하는 아르테미스 프로젝트의 핵심 목표"
 ---
 

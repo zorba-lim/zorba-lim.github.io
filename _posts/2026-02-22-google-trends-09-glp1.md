@@ -3,7 +3,7 @@ layout: post
 title: "식욕 스위치를 건드린다? 🧬 GLP-1 이슈, 기대와 오해 사이"
 date: 2026-02-22 20:00:00 +0900
 categories: [News, Global, Insight]
-tags: [glp1, health, medicine]
+tags: [glp1, health, medicine, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 비만치료]
 description: "GLP-1 계열 약물의 효과와 주의사항"
 ---
 
