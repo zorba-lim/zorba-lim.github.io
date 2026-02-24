@@ -3,7 +3,7 @@ layout: post
 title: "바다가 막히면 장바구니가 먼저 안다 🚢 홍해 물류 이슈의 나비효과"
 date: 2026-02-23 10:00:00 +0900
 categories: [News, Global, Insight]
-tags: [red-sea, shipping, inflation]
+tags: [red-sea, shipping, inflation, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "홍해 항로 불안과 글로벌 운임·물가 파급"
 ---
 

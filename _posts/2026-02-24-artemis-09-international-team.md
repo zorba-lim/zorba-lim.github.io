@@ -3,7 +3,7 @@ layout: post
 title: "미국 혼자 가는 줄 알았죠? 🤝 아르테미스는 국제 팀플 프로젝트"
 date: 2026-02-24 11:40:00 +0900
 categories: [News, Global, Insight]
-tags: [artemis-accords, international, space-policy]
+tags: [artemis-accords, international, space-policy, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, 국제협력]
 description: "아르테미스 국제 협력 구조와 아르테미스 협정 소개"
 ---
 

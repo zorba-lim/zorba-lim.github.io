@@ -3,7 +3,7 @@ layout: post
 title: "관광객 과열주의보🚨 휴양지는 어떻게 ‘사람 홍수’를 막을까?"
 date: 2026-02-21 14:10:00 +0900
 categories: [News, Global, Travel, Policy]
-tags: [overtourism, travel, sustainability, city-policy, environment]
+tags: [overtourism, travel, sustainability, city-policy, environment, 시사뉴스, 뉴스해설, 글로벌트렌드, 글로벌뉴스, 국제이슈, 세계경제, 오버투어리즘]
 description: "오버투어리즘 대응 정책을 쉽게 정리한 글로벌 여행 뉴스"
 ---
 

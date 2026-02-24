@@ -3,7 +3,7 @@ layout: post
 title: "우주선 이름이 오리온? 🛰️ 아르테미스 승무원 택시의 모든 것"
 date: 2026-02-24 09:40:00 +0900
 categories: [News, Global, Insight]
-tags: [orion, artemis, spacecraft]
+tags: [orion, artemis, spacecraft, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 아르테미스, NASA, moon-to-mars, 우주개발, 오리온우주선]
 description: "아르테미스에서 오리온 우주선이 하는 일을 쉽게 설명"
 ---
 

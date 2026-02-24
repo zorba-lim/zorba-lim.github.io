@@ -3,7 +3,7 @@ layout: post
 title: "AI도 등급제가 온다 🇪🇺 유럽 AI법, 우리 서비스에 미칠 3가지"
 date: 2026-02-23 10:20:00 +0900
 categories: [News, Global, Insight]
-tags: [eu-ai-act, regulation, compliance]
+tags: [eu-ai-act, regulation, compliance, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "EU AI Act 시행 준비와 글로벌 서비스 기업의 대응"
 ---
 

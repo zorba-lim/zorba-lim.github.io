@@ -3,7 +3,7 @@ layout: post
 title: "글로벌 뉴스 🌐 AI 규칙을 세계가 같이 만들고 있어요"
 date: 2026-02-21 11:00:00 +0900
 categories: [News, Global, Tech]
-tags: [global, ai, governance, policy, teens]
+tags: [global, ai, governance, policy, teens, 시사뉴스, 뉴스해설, 글로벌트렌드, 테크이슈, 글로벌뉴스, 국제이슈, 세계경제]
 description: "글로벌 이슈: AI 국제 규범과 왜 중요한지"
 ---
 

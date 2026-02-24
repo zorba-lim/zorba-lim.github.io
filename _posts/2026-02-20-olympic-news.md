@@ -3,7 +3,7 @@ layout: post
 title: "2026년 2월 20일 동계올림픽 한국팀 성적 및 주요 소식"
 date: 2026-02-20 11:00:00 +0900
 categories: [News, Sports]
-tags: [olympic, sports, korea]
+tags: [olympic, sports, korea, 시사뉴스, 뉴스해설, 스포츠이슈, 동계올림픽, 국가대표, 스포츠뉴스, 국제대회, 경기분석, 읽기쉬운뉴스]
 ---
 
 ## 🥇 2026 밀라노-코르티나 동계올림픽 : 대한민국의 감동적인 기록! 🇰🇷

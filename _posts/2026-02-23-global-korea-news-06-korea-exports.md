@@ -3,7 +3,7 @@ layout: post
 title: "수출이 웃으면 코스피도 웃을까? 📦 한국 수출 회복의 진짜 체크포인트"
 date: 2026-02-23 10:40:00 +0900
 categories: [News, Korea, Insight]
-tags: [korea-export, semiconductor, trade]
+tags: [korea-export, semiconductor, trade, 시사뉴스, 뉴스해설, 국내트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "한국 수출 흐름과 반도체 중심 회복의 지속 가능성"
 ---
 

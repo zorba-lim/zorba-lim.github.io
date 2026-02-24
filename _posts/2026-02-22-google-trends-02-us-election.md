@@ -3,7 +3,7 @@ layout: post
 title: "정치 뉴스가 경제를 흔든다 🗳️ 미국 대선, 왜 다들 촉각 곤두세울까?"
 date: 2026-02-22 13:00:00 +0900
 categories: [News, Global, Insight]
-tags: [us-election, politics, global]
+tags: [us-election, politics, global, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 미국경제]
 description: "미국 대선 이슈와 글로벌 파급력"
 ---
 

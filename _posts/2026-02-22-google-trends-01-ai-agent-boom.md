@@ -3,7 +3,7 @@ layout: post
 title: "실무자들 비상(?) 🤖 AI 에이전트가 회의록까지 써주는 시대"
 date: 2026-02-22 12:00:00 +0900
 categories: [News, Global, Insight]
-tags: [ai-agent, productivity, automation]
+tags: [ai-agent, productivity, automation, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, AI]
 description: "AI 에이전트 확산과 업무 자동화 변화"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "심장 쫄깃 투자 주의보 💸 비트코인, 숫자보다 사이클을 보자"
 date: 2026-02-22 14:00:00 +0900
 categories: [News, Global, Insight]
-tags: [bitcoin, etf, finance]
+tags: [bitcoin, etf, finance, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 구글트렌드, 실시간이슈, 트렌드분석, 이슈브리핑, 가상자산]
 description: "비트코인 변동성과 투자 체크포인트"
 ---
 

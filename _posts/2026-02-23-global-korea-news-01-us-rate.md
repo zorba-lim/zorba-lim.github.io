@@ -3,7 +3,7 @@ layout: post
 title: "금리의 입이 시장을 흔든다 💸 연준 한마디에 밤잠 설치는 이유"
 date: 2026-02-23 09:00:00 +0900
 categories: [News, Global, Insight]
-tags: [fed, inflation, market]
+tags: [fed, inflation, market, 시사뉴스, 뉴스해설, 글로벌트렌드, 인사이트, 글로벌뉴스, 국제이슈, 세계경제, 한국뉴스, 국내이슈]
 description: "미 연준 통화정책 신호와 글로벌 자산시장 변동성"
 ---
 
