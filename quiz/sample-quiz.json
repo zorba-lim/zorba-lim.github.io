@@ -1,0 +1,72 @@
+{
+  "title": "샘플 일반상식 퀴즈",
+  "questions": [
+    {
+      "type": "multiple",
+      "question": "대한민국의 수도는 어디인가요?",
+      "choices": ["부산", "서울", "인천", "대전"],
+      "answer": 1,
+      "explanation": "대한민국의 수도는 서울입니다."
+    },
+    {
+      "type": "multiple",
+      "question": "지구의 위성 이름은 무엇인가요?",
+      "choices": ["태양", "화성", "달", "금성"],
+      "answer": 2,
+      "explanation": "지구의 자연 위성은 달입니다."
+    },
+    {
+      "type": "short",
+      "question": "파이썬에서 리스트 길이를 구하는 내장 함수 이름은?",
+      "answer": "len",
+      "explanation": "len() 함수로 시퀀스 길이를 구합니다."
+    },
+    {
+      "type": "multiple",
+      "question": "HTTP 상태 코드 404는 무엇을 의미하나요?",
+      "choices": ["요청 성공", "권한 없음", "서버 오류", "리소스를 찾을 수 없음"],
+      "answer": 3,
+      "explanation": "404 Not Found는 요청한 리소스가 없음을 의미합니다."
+    },
+    {
+      "type": "multiple",
+      "question": "다음 중 CSS에서 글자 색상을 지정하는 속성은?",
+      "choices": ["font-size", "color", "background", "border"],
+      "answer": 1,
+      "explanation": "텍스트 색상은 color 속성으로 지정합니다."
+    },
+    {
+      "type": "short",
+      "question": "대한민국의 국기 이름은?",
+      "answer": "태극기",
+      "explanation": "대한민국 국기의 공식 명칭은 태극기입니다."
+    },
+    {
+      "type": "multiple",
+      "question": "다음 중 JavaScript의 배열 메서드가 아닌 것은?",
+      "choices": ["map", "filter", "reduce", "compile"],
+      "answer": 3,
+      "explanation": "compile은 일반적인 배열 메서드가 아닙니다."
+    },
+    {
+      "type": "multiple",
+      "question": "GitHub Pages 기본 사용자 사이트 주소 형태는?",
+      "choices": ["username.github.com", "username.github.io", "github.io/username", "pages.github/username"],
+      "answer": 1,
+      "explanation": "사용자 사이트는 보통 username.github.io 형태입니다."
+    },
+    {
+      "type": "short",
+      "question": "1킬로미터는 몇 미터인가요? 숫자만 입력",
+      "answer": "1000",
+      "explanation": "1km = 1000m 입니다."
+    },
+    {
+      "type": "multiple",
+      "question": "브라우저에서 로컬 저장소 키-값 저장에 사용하는 API는?",
+      "choices": ["sessionCookie", "indexedStore", "localStorage", "cacheValue"],
+      "answer": 2,
+      "explanation": "Web Storage API의 localStorage를 사용합니다."
+    }
+  ]
+}
