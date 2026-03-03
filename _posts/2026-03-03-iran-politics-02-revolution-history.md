@@ -3,7 +3,7 @@ layout: post
 title: "이란 혁명 역사 핵심 정리: 1906 입헌혁명부터 1979 이슬람혁명까지"
 date: 2026-03-03 09:20:00 +0900
 categories: [History, MiddleEast, Politics]
-tags: [iran-revolution, 1979, pahlavi, khomeini, iran-history, 중동역사, 이란혁명, 국제정치]
+tags: [iran-revolution, pahlavi, khomeini, iran-history, 중동역사, 이란혁명, 국제정치]
 description: "이란 정치체제를 만든 결정적 역사: 팔라비 왕조, 1953 쿠데타, 1979 혁명, 체제 전환을 쉽게 설명"
 ---
 
