@@ -86,7 +86,7 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-# Jekyll settings
+# Build settings
 markdown: kramdown
 highlighter: rouge
 
@@ -104,7 +104,3 @@ exclude:
   - task.md
   - implementation_plan.md
   - walkthrough.md
-
-# Exclude from Jekyll processing
-exclude:
-  - streaming-blog.html
