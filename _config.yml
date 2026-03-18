@@ -104,3 +104,7 @@ exclude:
   - task.md
   - implementation_plan.md
   - walkthrough.md
+
+# Exclude from Jekyll processing
+exclude:
+  - streaming-blog.html
